@@ -1,2 +1,2 @@
 # AmazonPriceTracker-BeautifulSoup-Smtplib
-Be sure to Product have price at amazon!
+Be sure to Product have a price at amazon!
